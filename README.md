@@ -1,5 +1,4 @@
-# Project Title
-Legal-tech for GDPR consent phrasings
+# Legal-tech for GDPR consent phrasings
 
 ## Summary
 Under the Europen General Data Protection Regulation (GDPR), individuals can be asked for consent to have their data processed, e.g. in cookie banners.
